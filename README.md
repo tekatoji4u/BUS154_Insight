@@ -3,5 +3,5 @@
 Dưới đây là giao diện của phần mềm:
 
 <p align="center">
-  <img src="assets/giao-dien-chinh.png" alt="Giao diện chính" width="700">
+  <img src=["assets/giao-dien-chinh.png](https://raw.githubusercontent.com/tekatoji4u/BUS154_Insight/refs/heads/main/CBE7DB0A-0CC1-408E-A761-CBA89245524C.png)" alt="Giao diện chính" width="700">
 </p>
